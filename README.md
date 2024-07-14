@@ -1,4 +1,6 @@
-![Profile Banner] https://i.gifer.com/5eKX.gif
+
+![git](https://github.com/user-attachments/assets/379944d1-a114-4cf2-8c0f-d1409d87ea8b)
+
 # Hi there, I'm Dinesh Shankar P 👋
 
 ## About Me
