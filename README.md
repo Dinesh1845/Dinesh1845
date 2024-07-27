@@ -13,8 +13,8 @@ I'm currently studying BE and constantly improving my skills in web development.
 
 ## Projects
 Here are some of the projects I've worked on:
-1. *[Project Name](#)*
-   - Brief description of the project.
+1. *[Personal-portfolio](dinesh1845.github.io/Personal-Portfolio/)*
+   
 2. *[Project Name](#)*
    - Brief description of the project.
 
