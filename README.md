@@ -1,8 +1,7 @@
 # Hi there, I'm Dinesh Shankar P 👋
 
 ## About Me
-I'm a passionate web developer who once wanted to become Spiderman, so I started web development. I love creating beautiful and functional web applications using modern technologies.
-
+👋 Hi, I'm Dinesh Shankar P! I'm a passionate web developer with a love for coding, reading books, and exploring the world of AI and open-source contributions.
 ## Skills and Technologies
 
 <div align="left">
