@@ -22,7 +22,7 @@
 ###
 
 ## Current Focus
-I'm currently studying BE and constantly improving my skills in web development. I’m always excited to work on new projects and learn new technologies.
+I'm currently studying BE and constantly improving my skills in web development and Java . I’m always excited to work on new projects and learn new technologies.
 
 ## Projects
 Here are some of the projects I've worked on:
