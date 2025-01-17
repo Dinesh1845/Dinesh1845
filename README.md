@@ -1,45 +1,11 @@
-# Hi there, I'm Dinesh Shankar P 👋
+<h1 align="center">Hi 👋, I'm DineshShankar</h1>
+<h3 align="center">A passionate java developer from India</h3>
 
-## About Me
-👋 Hi, I'm Dinesh Shankar P! I'm a passionate web developer with a love for coding, reading books, and exploring the world of AI and open-source contributions.
-## Skills and Technologies
+- 📫 To reach me **dineshshankar156@gmail.com**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-###
-###
-
-## Current Focus
-I'm currently studying BE and constantly improving my skills in web development and Java . I’m always excited to work on new projects and learn new technologies.
-
-## Projects
-Here are some of the projects I've worked on:
-1. *[Personal-portfolio](dinesh1845.github.io/Personal-Portfolio/)*
-   
-2. *[Project Name](#)*
-   - Brief description of the project.
-
-## Connect with Me
-- *Instagram:* [dinesh_.18](https://www.instagram.com/dinesh_.18)
-- *Medium:* [Dinesh Shankar](https://medium.com/@dineshshankar156)
-- *LinkedIn:* [Dinesh Shankar](https://www.linkedin.com/in/dine-sh-shankar-806178244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- *GitHub:* [Dinesh1845](https://github.com/Dinesh1845)
-
-## Contact Me
-Feel free to reach out to me at dineshshankar156@gmail.com.
-
----
-
-⭐ From [Dinesh1845](https://github.com/Dinesh1845)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
